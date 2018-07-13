@@ -16,6 +16,8 @@ public class Sample {
 		System.out.println("user B 5");
 		System.out.println("user A 4");
 		System.out.println("Try Commit Reset.");
+		System.out.println("Try Commit Reset2.");
+
 	}
 
 }
