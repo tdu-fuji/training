@@ -7,6 +7,7 @@ public class Sample {
 		System.out.println("Hello git!");
 		System.out.println("Add message");
 		System.out.println("user B");
+		System.out.println("user B 2");
 	}
 
 }
