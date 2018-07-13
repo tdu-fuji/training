@@ -5,6 +5,7 @@ public class Sample {
 
 		System.out.println("Hello world!!");
 		System.out.println("Hello git!");
+		System.out.println("Add message");
 	}
 
 }
